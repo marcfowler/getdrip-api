@@ -1,5 +1,5 @@
 # getdrip-api
-A nodejs wrapper for drip  v2 api.
+A nodejs wrapper for drip  v2 api. *Important* This fork makes use of the `Bearer` token type, for OAuth2 apps.
 
 ## How To Install
 
